@@ -4,6 +4,7 @@
 	[
 		"AdvancedNewFile",
 		"All Autocomplete",
+		"Babel",
 		"ApplySyntax",
 		"BracketHighlighter",
 		"DocBlockr",
@@ -14,5 +15,7 @@
 		"Package Control",
 		"Ruby on Rails snippets",
 		"SCSS"
+    	"SublimeLinter",
+   		"SublimeLinter-rubocop"
 	]
 }
